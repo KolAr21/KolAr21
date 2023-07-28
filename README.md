@@ -23,8 +23,13 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: Bachelor of mathematics and mechanics Novosibirsk State University
+- :mortar_board: Bachelor of mathematics and mechanics Novosibirsk State University
 
 - :seedling: I'm a beginning iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia
   
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Arina-darkblue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arina-kolganova-010122286/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
