@@ -2,8 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif" width="100"/>
 </div>
-
-<div id="badges">
+<div id="badges" align="center">
   <a href="www.linkedin.com/in/arina-kolganova">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
