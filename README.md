@@ -15,7 +15,7 @@
 <h1 align="center">Hi there, I'm Arina</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="500" height="200"/>
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="500" height="300"/>
 </div>
 
 ---
