@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:arina.kolganova21@gmail.com">
-    <img alt="Static Badge" src="https://img.shields.io/badge/gmail%2C%20red?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/mail%2C%20red?style=for-the-badge&logo=mail&logoColor=white">
   </a>
 </div>
 <h1 align="center">Hi there, I'm Arina</a> 
@@ -27,4 +27,4 @@
 
 - :seedling: I'm a beginning iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia
   
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arina-kolganova-010122286/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Arina-darkblue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arina-kolganova-010122286/)
